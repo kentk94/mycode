@@ -1,3 +1,6 @@
+# Project Description
+I want to learn how to do version control using git.
+
 # mycode
 Test Repo for Python Basics Course
 # mycode (Project Title)
@@ -23,3 +26,5 @@ What things are needed to install the software and how to install them. For now,
 ## Authors
 
 * **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+
+
